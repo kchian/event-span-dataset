@@ -1,0 +1,67 @@
+Property	Property_Label	URI	URI_Label
+P31	instance_of	Q48349	empire
+P31	instance_of	Q11514315	historical_period
+P31	instance_of	Q3024240	historical_country
+P31	instance_of	Q11042	culture
+P31	instance_of	Q28171280	ancient_civilization
+P31	instance_of	Q1620908	historical_region
+P31	instance_of	Q3502482	cultural_region
+P31	instance_of	Q465299	archaeological_culture
+P31	instance_of	Q568683	age
+P31	instance_of	Q763288	lander
+P31	instance_of	Q4830453	business
+P31	instance_of	Q24862	short_film
+P31	instance_of	Q1496967	territorial_entity
+P31	instance_of	Q68	computer
+P31	instance_of	Q486972	human_settlement
+P31	instance_of	Q26529	space_probe
+P31	instance_of	Q82794	geographic_region
+P31	instance_of	Q43229	organization
+P31	instance_of	Q15401633	archaeological_period
+P31	instance_of	Q5398426	television_series
+P31	instance_of	Q24869	feature_film
+P31	instance_of	Q11424	film
+P31	instance_of	Q718893	theater
+P31	instance_of	Q1555508	radio_program
+P31	instance_of	Q17343829	unincorporated_community_in_the_United_States
+P31	instance_of	Q254832	Internationale_Bauausstellung
+P31	instance_of	Q214609	material
+P31	instance_of	Q625298	peace_treaty
+P31	instance_of	Q131569	treaty
+P31	instance_of	Q93288	contract
+P31	instance_of	Q15416	television_program
+P31	instance_of	Q1201097	detachment
+P31	instance_of	Q16887380	group
+P31	instance_of	Q57821	fortification
+P31	instance_of	Q15383322	cultural prize
+P31	instance_of	Q515	city
+P31	instance_of	Q537127	road_bridge
+P31	instance_of	Q20097897	sea_fort
+P31	instance_of	Q1785071	fort
+P31	instance_of	Q23413	castle
+P31	instance_of	Q1484988	project
+P31	instance_of	Q149621	district
+P31	instance_of	Q532	village
+P31	instance_of	Q2630741	community
+P31	instance_of	Q3957	town
+P31	instance_of	Q111161	synod
+P31	instance_of	Q1530022	religious_organization
+P31	instance_of	Q51645	ecumenical_council
+P31	instance_of	Q10551516	church_council
+P31	instance_of	Q1076486	sports_venue
+P31	instance_of	Q17350442	venue
+P31	instance_of	Q13226383	facility
+P31	instance_of	Q811979	architectural_structure
+P31	instance_of	Q23764314	sports_location
+P31	instance_of	Q15707521	fictional_battle
+P36	capital	*	
+P2067	mass	*	
+P1082	population	*	
+P1376	captial_of	*	
+P137	operator	*	
+P915	filming_location	*	
+P162	producer	*	
+P281	postal_code	*	
+P176	manufacturer	*	
+P2257	event_interval	*	
+P279	subclass_of	*	
